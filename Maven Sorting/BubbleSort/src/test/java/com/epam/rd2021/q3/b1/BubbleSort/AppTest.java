@@ -1,8 +1,6 @@
-package com.navaneeth.BubbleSort;
+package com.epam.rd2021.q3.b1.BubbleSort;
 
 import java.util.Arrays;
-
-import com.navaneeth.BubbleSort.App;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

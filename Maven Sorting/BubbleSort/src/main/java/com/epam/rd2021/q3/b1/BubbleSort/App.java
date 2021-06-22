@@ -1,4 +1,4 @@
-package com.navaneeth.BubbleSort;
+package com.epam.rd2021.q3.b1.BubbleSort;
 
 public class App 
 {
