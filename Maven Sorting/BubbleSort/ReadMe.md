@@ -1,5 +1,5 @@
 # Simple Java Program
 
-## Program to demon on GIT
+## Program to demo on GIT
 
 ### Bubble sort
