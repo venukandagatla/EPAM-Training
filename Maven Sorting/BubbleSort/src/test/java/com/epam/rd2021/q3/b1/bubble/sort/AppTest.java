@@ -1,4 +1,4 @@
-package com.epam.rd2021.q3.b1.BubbleSort;
+package com.epam.rd2021.q3.b1.bubble.sort;
 
 import java.util.Arrays;
 
